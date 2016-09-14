@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf32d572-e88d-4604-8fce-8381f12acb62" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/facebookicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/facebookicon50.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/recipeJs.js" afterPath="$PROJECT_DIR$/js/recipeJs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/recipeJs.js.map" afterPath="$PROJECT_DIR$/js/recipeJs.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/recipeJs.ts" afterPath="$PROJECT_DIR$/js/recipeJs.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recipe.html" afterPath="$PROJECT_DIR$/recipe.html" />
     </list>
     <ignored path="msaP.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,17 +38,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="recipe.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="recipe.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/recipe.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
-              <folding />
+            <state relative-caret-position="246">
+              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="recipeJs.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="recipeJs.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/recipeJs.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2181">
@@ -89,10 +91,10 @@
         <option value="$PROJECT_DIR$/js/indexTs.ts" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/recipe.css" />
-        <option value="$PROJECT_DIR$/recipe.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/recipeJs.js" />
         <option value="$PROJECT_DIR$/js/recipeJs.ts" />
+        <option value="$PROJECT_DIR$/recipe.html" />
       </list>
     </option>
   </component>
@@ -216,6 +218,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wmd000\Desktop\msaProject\img" />
       <recent name="C:\Users\wmd000\Desktop\msaP" />
       <recent name="C:\Users\wmd000\Desktop\msaP\img" />
       <recent name="C:\Users\wmd000\Desktop\msaP\css" />
@@ -289,12 +292,12 @@
       <updated>1473864151338</updated>
       <workItem from="1473864152947" duration="40000" />
       <workItem from="1473864225577" duration="1031000" />
-      <workItem from="1473865790313" duration="13034000" />
+      <workItem from="1473865790313" duration="13966000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14105000" />
+    <option name="totallyTimeSpent" value="15037000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -396,14 +399,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recipe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/recipeJs.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2181">
@@ -417,6 +412,16 @@
             <element signature="e#80148#107930#0" expanded="false" />
             <element signature="e#107948#134423#0" expanded="false" />
             <element signature="e#134473#157441#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
