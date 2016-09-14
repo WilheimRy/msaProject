@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf32d572-e88d-4604-8fce-8381f12acb62" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/recipeJs.js" afterPath="$PROJECT_DIR$/js/recipeJs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/recipeJs.js.map" afterPath="$PROJECT_DIR$/js/recipeJs.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/recipeJs.ts" afterPath="$PROJECT_DIR$/js/recipeJs.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recipe.html" afterPath="$PROJECT_DIR$/recipe.html" />
     </list>
     <ignored path="msaP.iws" />
@@ -32,8 +28,8 @@
       <file leaf-file-name="recipe.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/recipe.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-134">
-              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+            <state relative-caret-position="399">
+              <caret line="25" column="105" selection-start-line="25" selection-start-column="105" selection-end-line="25" selection-end-column="105" />
               <folding />
             </state>
           </provider>
@@ -281,12 +277,12 @@
       <updated>1473864151338</updated>
       <workItem from="1473864152947" duration="40000" />
       <workItem from="1473864225577" duration="1031000" />
-      <workItem from="1473865790313" duration="14663000" />
+      <workItem from="1473865790313" duration="15282000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15734000" />
+    <option name="totallyTimeSpent" value="16353000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -298,7 +294,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-13" y="-13" width="2186" height="1386" extended-state="6" />
+    <frame x="-13" y="-13" width="2186" height="1386" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20283437" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -407,8 +403,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/recipe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-134">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        <state relative-caret-position="399">
+          <caret line="25" column="105" selection-start-line="25" selection-start-column="105" selection-end-line="25" selection-end-column="105" />
           <folding />
         </state>
       </provider>
