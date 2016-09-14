@@ -5844,10 +5844,9 @@ function Builddivs(list) {
         var p = list[i];
         title = p.recipe.label;
         imgurl = p.recipe.image;
-        array.push("<div class='pin'> <img src='" + imgurl + "'/> <p>" + title + "</p> </div>");
+        href=p.recipe.url;
+        array.push("<div class='pin'><a href='"+href+"'><img src='" + imgurl + "'/></a><p>" + title + "</p> </div>");
     }
     var html = array.join("");
-    //alert(html);
     $("#columns").html(html);
-    //alert($("#columns").html());
 }
