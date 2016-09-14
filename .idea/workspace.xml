@@ -2,11 +2,276 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf32d572-e88d-4604-8fce-8381f12acb62" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/gulp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/gulp.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/jshint" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/jshint.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules/source-map/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules/source-map/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules/source-map/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules/source-map/dist/source-map.debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules/source-map/dist/source-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules/source-map/dist/source-map.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules/source-map/dist/source-map.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules/source-map/lib/array-set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules/source-map/lib/base64-vlq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules/source-map/lib/base64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules/source-map/lib/binary-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules/source-map/lib/mapping-list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules/source-map/lib/quick-sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules/source-map/lib/source-map-consumer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules/source-map/lib/source-map-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules/source-map/lib/source-node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules/source-map/lib/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules/source-map/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules/source-map/source-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/lib/PluginError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/lib/buffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/lib/combine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/lib/env.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/lib/isBuffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/lib/isNull.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/lib/isStream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/lib/log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/lib/noop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/lib/template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/.bin/dateformat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/.bin/dateformat.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/array-differ/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/array-differ/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/array-differ/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/array-uniq/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/array-uniq/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/array-uniq/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/array-uniq/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/beeper/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/beeper/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/beeper/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/beeper/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/ansi-styles/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/ansi-styles/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/ansi-styles/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/ansi-styles/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/escape-string-regexp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/escape-string-regexp/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/escape-string-regexp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/escape-string-regexp/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/strip-ansi/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/strip-ansi/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/strip-ansi/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/strip-ansi/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/supports-color/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/supports-color/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/supports-color/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/node_modules/supports-color/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/chalk/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/bin/cli.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/lib/dateformat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/get-stdin/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/get-stdin/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/get-stdin/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/camelcase-keys/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/camelcase-keys/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/camelcase-keys/node_modules/camelcase/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/camelcase-keys/node_modules/camelcase/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/camelcase-keys/node_modules/camelcase/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/camelcase-keys/node_modules/camelcase/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/camelcase-keys/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/camelcase-keys/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/decamelize/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/decamelize/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/decamelize/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/decamelize/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/node_modules/currently-unhandled/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/node_modules/currently-unhandled/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/node_modules/currently-unhandled/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/node_modules/currently-unhandled/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/node_modules/currently-unhandled/node_modules/array-find-index/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/node_modules/currently-unhandled/node_modules/array-find-index/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/node_modules/currently-unhandled/node_modules/array-find-index/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/node_modules/currently-unhandled/node_modules/array-find-index/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/node_modules/currently-unhandled/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/node_modules/currently-unhandled/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/node_modules/signal-exit/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/node_modules/signal-exit/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/node_modules/signal-exit/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/node_modules/signal-exit/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/node_modules/signal-exit/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/node_modules/signal-exit/signals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/loud-rejection/register.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/map-obj/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/map-obj/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/map-obj/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/map-obj/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/lib/extract_description.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/lib/fixer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/lib/make_warning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/lib/normalize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/lib/safe_format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/lib/typos.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/lib/warning_messages.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/.bin/semver" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/.bin/semver.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/hosted-git-info/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/hosted-git-info/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/hosted-git-info/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/hosted-git-info/git-host-info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/hosted-git-info/git-host.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/hosted-git-info/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/hosted-git-info/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/is-builtin-module/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/is-builtin-module/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/builtin-modules.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/static.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/is-builtin-module/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/is-builtin-module/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/semver/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/semver/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/semver/bin/semver" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/semver/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/semver/range.bnf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/semver/semver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-correct/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-correct/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-correct/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-correct/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-expression-parse/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-expression-parse/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-expression-parse/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-expression-parse/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-expression-parse/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-expression-parse/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/consistency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/dependencies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/async.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/badscripts.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/bcrypt.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/coffee-script.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/http-server.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/movefile.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/no-description.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/node-module_exist.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/npm.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/read-package-json.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/request.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/underscore.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/github-urls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/mixedcase-names.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/normalize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/scoped.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/strict.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/typo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/object-assign/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/object-assign/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/object-assign/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/object-assign/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/find-up/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/find-up/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/find-up/node_modules/path-exists/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/find-up/node_modules/path-exists/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/find-up/node_modules/path-exists/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/find-up/node_modules/path-exists/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/find-up/node_modules/pinkie-promise/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/find-up/node_modules/pinkie-promise/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/find-up/node_modules/pinkie-promise/node_modules/pinkie/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/find-up/node_modules/pinkie-promise/node_modules/pinkie/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/find-up/node_modules/pinkie-promise/node_modules/pinkie/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/find-up/node_modules/pinkie-promise/node_modules/pinkie/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/find-up/node_modules/pinkie-promise/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/find-up/node_modules/pinkie-promise/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/find-up/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/find-up/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/graceful-fs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/graceful-fs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/graceful-fs/fs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/graceful-fs/graceful-fs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/graceful-fs/legacy-streams.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/graceful-fs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/graceful-fs/polyfills.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/parse-json/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/parse-json/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/parse-json/node_modules/error-ex/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/parse-json/node_modules/error-ex/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/parse-json/node_modules/error-ex/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/parse-json/node_modules/error-ex/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/parse-json/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/parse-json/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/parse-json/vendor/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/parse-json/vendor/unicode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/pify/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/pify/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/pify/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/pify/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/pinkie-promise/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/pinkie-promise/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/pinkie-promise/node_modules/pinkie/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-concat/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/pinkie-promise/node_modules/pinkie/license" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/facebookicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/facebookicon50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery-3.1.0.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/recipeJs.js" afterPath="$PROJECT_DIR$/js/recipeJs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/recipeJs.js.map" afterPath="$PROJECT_DIR$/js/recipeJs.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/recipeJs.ts" afterPath="$PROJECT_DIR$/js/recipeJs.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recipe.html" afterPath="$PROJECT_DIR$/recipe.html" />
     </list>
     <ignored path="msaP.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,47 +293,7 @@
     <favorites_list name="msaP" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="25" column="172" selection-start-line="25" selection-start-column="172" selection-end-line="25" selection-end-column="172" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="recipe.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recipe.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1025">
-              <caret line="25" column="105" selection-start-line="25" selection-start-column="105" selection-end-line="25" selection-end-column="105" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="recipeJs.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/recipeJs.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="29" column="32" selection-start-line="22" selection-start-column="4" selection-end-line="29" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#43#0" expanded="false" />
-                <element signature="e#1414#273775#0" expanded="false" />
-                <element signature="e#1714#33699#0" expanded="false" />
-                <element signature="e#33717#60433#0" expanded="false" />
-                <element signature="e#60451#81273#0" expanded="false" />
-                <element signature="e#81291#109073#0" expanded="false" />
-                <element signature="e#109091#135566#0" expanded="false" />
-                <element signature="e#135616#158584#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -77,6 +302,7 @@
         <option value="HTML File" />
         <option value="TypeScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -91,8 +317,9 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/recipe.css" />
         <option value="$PROJECT_DIR$/js/recipeJs.js" />
-        <option value="$PROJECT_DIR$/recipe.html" />
         <option value="$PROJECT_DIR$/js/recipeJs.ts" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/recipe.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -102,6 +329,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-13" />
@@ -149,52 +379,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="msaProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="msaProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="msaProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="recipeJs.ts" />
-              <option name="myItemType" value="com.intellij.lang.typescript.compiler.ui.projectView.TypeScriptNestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="msaProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="msaProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="msaProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="msaProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -282,6 +466,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bf32d572-e88d-4604-8fce-8381f12acb62" name="Default" comment="" />
@@ -291,12 +478,13 @@
       <updated>1473864151338</updated>
       <workItem from="1473864152947" duration="40000" />
       <workItem from="1473864225577" duration="1031000" />
-      <workItem from="1473865790313" duration="16536000" />
+      <workItem from="1473865790313" duration="18296000" />
+      <workItem from="1473891235297" duration="417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17607000" />
+    <option name="totallyTimeSpent" value="19784000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -309,25 +497,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="2186" height="1386" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20283437" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13610587" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20283437" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17863894" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32860938" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32860938" sideWeight="0.50189036" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28697962" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32860938" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32860938" sideWeight="0.49810964" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -354,6 +542,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/recipe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1189">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tsconfig.json" />
     <entry file="file://$PROJECT_DIR$/js/basic.js" />
     <entry file="file://$PROJECT_DIR$/js/indexTs.ts" />
@@ -362,7 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -378,7 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-15">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -390,18 +592,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/recipe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1025">
-          <caret line="25" column="105" selection-start-line="25" selection-start-column="105" selection-end-line="25" selection-end-column="105" />
+        <state relative-caret-position="123">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/recipeJs.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="29" column="32" selection-start-line="22" selection-start-column="4" selection-end-line="29" selection-end-column="32" />
+        <state relative-caret-position="119">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
           <folding>
             <element signature="e#0#43#0" expanded="false" />
             <element signature="e#1414#273775#0" expanded="false" />
@@ -417,8 +626,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="25" column="172" selection-start-line="25" selection-start-column="172" selection-end-line="25" selection-end-column="172" />
+        <state relative-caret-position="164">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding />
         </state>
       </provider>
