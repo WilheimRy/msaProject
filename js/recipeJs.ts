@@ -11,6 +11,15 @@ $(function () {
         //alert(a);
         search(a);
     });
+    
+    $('#shareBtn').click(function () {
+        FB.ui({
+            method: 'share',
+            display: 'popup',
+            href: 'https://developers.facebook.com/docs/',
+        }, function(response){});
+    });
+
 });
 
 function search(a){
