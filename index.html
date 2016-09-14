@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--Boostrap's CSS-->
     <link rel="stylesheet" type="text/css" href="bootstrap/bootstrap.css">
+    <!--Bootstrap Script-->
+    <script src="bootstrap/bootstrap.js"></script>
     <!--Custom CSS-->
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <!--jQuery Script-->
@@ -13,6 +15,7 @@
         $(function () {
             $("#basic-addon2").click(function () {
                 location.href='recipe.html'
+                window.name=$('#i1').val();
             });
         });
     </script>
@@ -29,7 +32,7 @@
             </div>
             <div class="col-md-7 col-lg-7 col-sm-7">
                 <div class="input-group">
-                    <input type="text" class="form-control" placeholder="find your recipe today" aria-describedby="basic-addon2">
+                    <input id="i1" type="text" class="form-control" placeholder="find your recipe today" aria-describedby="basic-addon2">
                     <span class="input-group-addon" id="basic-addon2">start</span>
                 </div>
             </div>
@@ -43,7 +46,6 @@
 
 </div>
 
-<!--Bootstrap Script-->
-<script src="bootstrap/bootstrap.js"></script>
+
 </body>
 </html>
