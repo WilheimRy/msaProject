@@ -28,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="recipe.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="recipe.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/recipe.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
-              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+            <state relative-caret-position="492">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -41,16 +41,9 @@
       <file leaf-file-name="recipeJs.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/recipeJs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="5809" column="3" selection-start-line="5809" selection-start-column="3" selection-end-line="5809" selection-end-column="3" />
-              <folding>
-                <marker date="1473882179136" expanded="true" signature="0:43" ph="/** Created by wmd000 on 15/09/2016. ...*/" />
-                <marker date="1473882179136" expanded="true" signature="58:191" ph="{...}" />
-                <marker date="1473882179136" expanded="true" signature="64:189" ph="//..." />
-                <marker date="1473882179136" expanded="true" signature="194:273607" ph="//..." />
-                <marker date="1473882179136" expanded="true" signature="273633:274001" ph="{...}" />
-                <marker date="1473882179136" expanded="true" signature="273727:273921" ph="{...}" />
-              </folding>
+            <state relative-caret-position="582">
+              <caret line="5847" column="36" selection-start-line="5847" selection-start-column="36" selection-end-line="5847" selection-end-column="36" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -65,20 +58,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="recipeJs.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="recipeJs.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/recipeJs.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="656">
-              <caret line="5846" column="5" selection-start-line="5846" selection-start-column="5" selection-end-line="5846" selection-end-column="5" />
+            <state relative-caret-position="569">
+              <caret line="5851" column="6" selection-start-line="5851" selection-start-column="6" selection-end-line="5851" selection-end-column="6" />
               <folding>
                 <element signature="e#0#43#0" expanded="false" />
-                <element signature="e#251#272612#0" expanded="false" />
-                <element signature="e#551#32536#0" expanded="false" />
-                <element signature="e#32554#59270#0" expanded="false" />
-                <element signature="e#59288#80110#0" expanded="false" />
-                <element signature="e#80128#107910#0" expanded="false" />
-                <element signature="e#107928#134403#0" expanded="false" />
-                <element signature="e#134453#157421#0" expanded="false" />
+                <element signature="e#271#272632#0" expanded="false" />
+                <element signature="e#571#32556#0" expanded="false" />
+                <element signature="e#32574#59290#0" expanded="false" />
+                <element signature="e#59308#80130#0" expanded="false" />
+                <element signature="e#80148#107930#0" expanded="false" />
+                <element signature="e#107948#134423#0" expanded="false" />
+                <element signature="e#134473#157441#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -288,12 +281,12 @@
       <updated>1473864151338</updated>
       <workItem from="1473864152947" duration="40000" />
       <workItem from="1473864225577" duration="1031000" />
-      <workItem from="1473865790313" duration="10698000" />
+      <workItem from="1473865790313" duration="11626000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11769000" />
+    <option name="totallyTimeSpent" value="12697000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -371,14 +364,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/recipe.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery-3.1.0.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1">
@@ -387,43 +372,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/recipeJs.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="5851" column="6" selection-start-line="5851" selection-start-column="6" selection-end-line="5851" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#43#0" expanded="false" />
+            <element signature="e#271#272632#0" expanded="false" />
+            <element signature="e#571#32556#0" expanded="false" />
+            <element signature="e#32574#59290#0" expanded="false" />
+            <element signature="e#59308#80130#0" expanded="false" />
+            <element signature="e#80148#107930#0" expanded="false" />
+            <element signature="e#107948#134423#0" expanded="false" />
+            <element signature="e#134473#157441#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/recipeJs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="5809" column="3" selection-start-line="5809" selection-start-column="3" selection-end-line="5809" selection-end-column="3" />
-          <folding>
-            <marker date="1473882179136" expanded="true" signature="0:43" ph="/** Created by wmd000 on 15/09/2016. ...*/" />
-            <marker date="1473882179136" expanded="true" signature="58:191" ph="{...}" />
-            <marker date="1473882179136" expanded="true" signature="64:189" ph="//..." />
-            <marker date="1473882179136" expanded="true" signature="194:273607" ph="//..." />
-            <marker date="1473882179136" expanded="true" signature="273633:274001" ph="{...}" />
-            <marker date="1473882179136" expanded="true" signature="273727:273921" ph="{...}" />
-          </folding>
+        <state relative-caret-position="582">
+          <caret line="5847" column="36" selection-start-line="5847" selection-start-column="36" selection-end-line="5847" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/recipe.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/recipe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        <state relative-caret-position="492">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/recipeJs.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="5846" column="5" selection-start-line="5846" selection-start-column="5" selection-end-line="5846" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#43#0" expanded="false" />
-            <element signature="e#251#272612#0" expanded="false" />
-            <element signature="e#551#32536#0" expanded="false" />
-            <element signature="e#32554#59270#0" expanded="false" />
-            <element signature="e#59288#80110#0" expanded="false" />
-            <element signature="e#80128#107910#0" expanded="false" />
-            <element signature="e#107928#134403#0" expanded="false" />
-            <element signature="e#134453#157421#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>

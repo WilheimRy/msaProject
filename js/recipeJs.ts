@@ -8,6 +8,7 @@ $(function () {
     search(a);
     $('#btn1').click(function () {
         a = $('#i1').val();
+        //alert(a);
         search(a);
     });
 });
@@ -5823,12 +5824,12 @@ function search(a){
                 xhrObj.setRequestHeader("_app_id", "4d184a43");
                 xhrObj.setRequestHeader("_app_key", "80e956f0544de255e27075a862bd3d5d");
             },
-            data: { "q": "sugar"},
+            data: { "q": a},
             type: "GET",
             dataType: 'json',
             success: function (dataFromServer) {
                 var list = dataFromServer.hits;
-
+                Builddivs(list);
             },
 
         });
@@ -5846,6 +5847,7 @@ function Builddivs(list) {
         array.push("<div class='pin'> <img src='" + imgurl + "'/> <p>" + title + "</p> </div>");
     }
     var html = array.join("");
-    alert(html);
+    //alert(html);
     $("#columns").html(html);
+    //alert($("#columns").html());
 }
