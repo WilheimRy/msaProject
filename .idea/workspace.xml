@@ -28,12 +28,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="recipe.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="recipe.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recipe.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+            <state relative-caret-position="41">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recipeJs.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/recipeJs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="5809" column="3" selection-start-line="5809" selection-start-column="3" selection-end-line="5809" selection-end-column="3" />
+              <folding>
+                <marker date="1473882179136" expanded="true" signature="0:43" ph="/** Created by wmd000 on 15/09/2016. ...*/" />
+                <marker date="1473882179136" expanded="true" signature="58:191" ph="{...}" />
+                <marker date="1473882179136" expanded="true" signature="64:189" ph="//..." />
+                <marker date="1473882179136" expanded="true" signature="194:273607" ph="//..." />
+                <marker date="1473882179136" expanded="true" signature="273633:274001" ph="{...}" />
+                <marker date="1473882179136" expanded="true" signature="273727:273921" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,13 +65,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="recipeJs.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="recipeJs.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/recipeJs.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+            <state relative-caret-position="656">
+              <caret line="5846" column="5" selection-start-line="5846" selection-start-column="5" selection-end-line="5846" selection-end-column="5" />
               <folding>
                 <element signature="e#0#43#0" expanded="false" />
+                <element signature="e#251#272612#0" expanded="false" />
+                <element signature="e#551#32536#0" expanded="false" />
+                <element signature="e#32554#59270#0" expanded="false" />
+                <element signature="e#59288#80110#0" expanded="false" />
+                <element signature="e#80128#107910#0" expanded="false" />
+                <element signature="e#107928#134403#0" expanded="false" />
+                <element signature="e#134453#157421#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -183,7 +207,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webstormProject/.idea" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
@@ -264,12 +288,12 @@
       <updated>1473864151338</updated>
       <workItem from="1473864152947" duration="40000" />
       <workItem from="1473864225577" duration="1031000" />
-      <workItem from="1473865790313" duration="7098000" />
+      <workItem from="1473865790313" duration="10698000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8169000" />
+    <option name="totallyTimeSpent" value="11769000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -284,7 +308,7 @@
     <frame x="-13" y="-13" width="2186" height="1386" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30912313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20283437" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13610587" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -328,7 +352,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tsconfig.json" />
-    <entry file="file://$PROJECT_DIR$/js/jquery-3.1.0.js" />
     <entry file="file://$PROJECT_DIR$/js/basic.js" />
     <entry file="file://$PROJECT_DIR$/js/indexTs.ts" />
     <entry file="file://$PROJECT_DIR$/bootstrap/bootstrap.js" />
@@ -356,29 +379,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/recipeJs.js">
+    <entry file="file://$PROJECT_DIR$/js/jquery-3.1.0.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1269">
-          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+        <state relative-caret-position="-1">
+          <caret line="8689" column="4" selection-start-line="8689" selection-start-column="4" selection-end-line="8689" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/recipeJs.ts">
+    <entry file="file://$PROJECT_DIR$/js/recipeJs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+        <state relative-caret-position="697">
+          <caret line="5809" column="3" selection-start-line="5809" selection-start-column="3" selection-end-line="5809" selection-end-column="3" />
           <folding>
-            <element signature="e#0#43#0" expanded="false" />
+            <marker date="1473882179136" expanded="true" signature="0:43" ph="/** Created by wmd000 on 15/09/2016. ...*/" />
+            <marker date="1473882179136" expanded="true" signature="58:191" ph="{...}" />
+            <marker date="1473882179136" expanded="true" signature="64:189" ph="//..." />
+            <marker date="1473882179136" expanded="true" signature="194:273607" ph="//..." />
+            <marker date="1473882179136" expanded="true" signature="273633:274001" ph="{...}" />
+            <marker date="1473882179136" expanded="true" signature="273727:273921" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/recipe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        <state relative-caret-position="41">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/recipeJs.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="5846" column="5" selection-start-line="5846" selection-start-column="5" selection-end-line="5846" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#43#0" expanded="false" />
+            <element signature="e#251#272612#0" expanded="false" />
+            <element signature="e#551#32536#0" expanded="false" />
+            <element signature="e#32554#59270#0" expanded="false" />
+            <element signature="e#59288#80110#0" expanded="false" />
+            <element signature="e#80128#107910#0" expanded="false" />
+            <element signature="e#107928#134403#0" expanded="false" />
+            <element signature="e#134453#157421#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
