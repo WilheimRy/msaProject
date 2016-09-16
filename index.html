@@ -20,6 +20,13 @@
                 location.href='recipe.html';
                 window.name=$('#i1').val();
             });
+
+            $("input").keydown(function (e) {
+                if (e.keyCode == 13) {
+                    window.location.href = 'recipe.html';
+                    window.name=$('#i1').val();
+                }
+            });
         });
 
         var appInsights=window.appInsights||function(config){
