@@ -6,8 +6,13 @@ $(function () {
     search(a);
     $('#btn1').click(function () {
         a = $('#i1').val();
-        //alert(a);
         search(a);
+    });
+    $("input").keydown(function (e) {
+        if (e.keyCode == 13) {
+            a = $('#i1').val();
+            search(a);
+        }
     });
     $('#shareBtn').click(function () {
         FB.ui({
